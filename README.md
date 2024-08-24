@@ -1,5 +1,7 @@
 /* This project is a user authentication system that allows users to securely register, log in, and log out. */
+
 /* The system includes password protection and validation features to enhance security.*/
+
 /*The user interface is built with React, and the design is styled using Tailwind CSS for a modern, responsive experience.*/
 
 /*
